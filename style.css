@@ -37,6 +37,8 @@ a{
     color: #C9787F
 }
 
+/* Cabeçalho */
+
 header{
     background-color: #f3ece4;
     color: #92444d;
@@ -51,11 +53,13 @@ header h1{
     font-family: lobster; 
 }
 
+/* Navegação */
+
 nav ul {
     list-style: none;
 }
 
-vav li {
+nav li {
     display: inline-block;
     margin: 0 15px;
 }
@@ -64,18 +68,24 @@ nav a {
     font-weight: bold;
 }
 
+/* Conteúdo principal */
+
 main {
     max-width: 960px;
     margin: 0 auto;
     padding: 32px 16px;
 }
 
+/* Rodapé */
+ 
 footer {
     background-color: #8d4049;
     color: #F7EDE3;
     text-align: center;
     padding: 24px 16px;
 }
+
+/* Fotos */
 
 .foto {
     background-color: #A84F59;
@@ -94,31 +104,34 @@ footer {
     margin-bottom: 12px;
 }
 
+/* Seletor compartilhado */
+
 .pacote-essencial, .pacote-premium {
     background-color: #f3ece4;
 }
 
 .pacote-essencial {
-    background-color: #f3ece4;
-    border-left: 4px solid #92444d
+    border-left: 4px solid #e2d8cc
 }
 
 .pacote-premium {
-    background-color: #f3ece4;
     color: #C9787F;
     border-left: 4px solid #f3ece4;
 }
 
+/* Portfólio */
 
 #portfolio {
     padding: 24px 0;
 }
 
 #pacotes {
-    background-color: #a04b55;
+    background-color: #e2d8cc;
     border-radius: 8px;
     padding: 24px;
 }
+
+/* Horário */
 
 #horario {
     background-color: #c6a9ac;
