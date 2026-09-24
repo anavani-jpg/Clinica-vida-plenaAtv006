@@ -71,3 +71,61 @@ footer {
     text-align: center;
     padding: 24px 16px;
 }
+
+.foto {
+    background-color: #A84F59;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.pacote {
+     padding: 12px;
+    border-radius: 4px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.pacote-essencial {
+    background-color: #f3ece4;
+    border-left: 4px solid #92444d
+}
+
+.pacote-premium {
+    background-color: #f3ece4;
+    color: #C9787F;
+    border-left: 4px solid #f3ece4;
+}
+
+
+#portfolio {
+    padding: 24px 0;
+}
+
+#pacotes {
+    background-color: #a04b55;
+    border-radius: 8px;
+    padding: 24px;
+}
+
+#horario {
+    background-color: #c6a9ac;
+    border-radius: 8px;
+    padding: 24px;
+    margin-top: 24px;
+}
+
+#foto-casamento {
+    background-image: url("ChatGPT\ Image\ 24\ de\ set.\ de\ 2026\,\ 09_35_56.png")
+}
+
+#foto-corporativo {
+    background-image: url("segunda_imagem\ -\ Copia.png")
+}
+
+#foto-newborn {
+    background-image: url("terceira_imagem.png")
+    }
